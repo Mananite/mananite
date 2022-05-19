@@ -8,6 +8,8 @@
 
 -Git gud 
 
+-Really bad code here
+
 -My name reminds me of the mc of shovel hero
 
 -12/12/2007 Spanish guy
